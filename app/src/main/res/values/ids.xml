@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_mainui" type="id" />
+    <item name="progress_main" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="imgv_badge" type="id" />
+</resources>
